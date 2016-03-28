@@ -1,6 +1,6 @@
 {
   "name": "number-with-commas",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert a Number to a string with commas.",
   "author": "Michael Hsu",
   "license": "MIT",
