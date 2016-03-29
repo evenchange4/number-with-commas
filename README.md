@@ -4,7 +4,7 @@
 >
 > by [Luis Eduardo Rojas Cabrera](http://stackoverflow.com/a/27761572/1932742)
 
-[![Travis][build-badge]][build] [![npm package][npm-badge]][npm] [![Coverage Status][coveralls-badge]][coveralls]
+[![Travis][build-badge]][build] [![Coverage Status][coveralls-badge]][coveralls] [![npm package][npm-badge]][npm] [![npm downloads][npm-downloads]][npm] [![license][license-badge]][license]
 
 [build-badge]: https://img.shields.io/travis/evenchange4/number-with-commas/master.svg?style=flat-square
 [build]: https://travis-ci.org/evenchange4/number-with-commas
@@ -14,6 +14,11 @@
 
 [coveralls-badge]: https://img.shields.io/coveralls/evenchange4/number-with-commas/master.svg?style=flat-square
 [coveralls]: https://coveralls.io/github/evenchange4/number-with-commas
+
+[npm-downloads]: https://img.shields.io/npm/dt/number-with-commas.svg?style=flat-square
+
+[license-badge]: https://img.shields.io/npm/l/number-with-commas.svg?style=flat-square
+[license]: http://michaelhsu.mit-license.org/
 
 ## Installation
 
@@ -58,3 +63,5 @@ $ npm run test:watch
 ## [CHANGELOG](CHANGELOG.md)
 
 ## [LICENSE](LICENSE)
+
+MIT: [http://michaelhsu.mit-license.org](http://michaelhsu.mit-license.org)
