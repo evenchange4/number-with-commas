@@ -1,7 +1,5 @@
 # number-with-commas
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/number-with-commas.svg)](https://greenkeeper.io/)
-
 > Convert a Number to a string with commas.
 >
 > by [Luis Eduardo Rojas Cabrera](http://stackoverflow.com/a/27761572/1932742)
@@ -30,6 +28,7 @@
 [devDependency]: https://david-dm.org/evenchange4/number-with-commas#info=devDependencies
 [peerDependency-badge]: https://david-dm.org/evenchange4/number-with-commas/peer-status.svg?style=flat-square
 [peerDependency]: https://david-dm.org/evenchange4/number-with-commas#info=peerDependencies
+[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/number-with-commas.svg)](https://greenkeeper.io/)
 
 ## Installation
 
